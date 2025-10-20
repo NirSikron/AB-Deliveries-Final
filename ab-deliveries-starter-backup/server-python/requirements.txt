@@ -1,6 +1,0 @@
-fastapi
-uvicorn[standard]
-motor
-passlib[bcrypt]
-pydantic[email]
-python-dotenv
